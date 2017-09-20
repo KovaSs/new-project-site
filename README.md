@@ -1,1 +1,1 @@
-# Web-site: stil-master.ru
+# To create new web site
